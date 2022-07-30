@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "488125519392",
+    "firebase_url": "https://the-eye-25bb3-default-rtdb.firebaseio.com",
+    "project_id": "the-eye-25bb3",
+    "storage_bucket": "the-eye-25bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488125519392:android:fb4237e7d6b3d9a09f4e45",
+        "android_client_info": {
+          "package_name": "com.example.new_grad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488125519392-007q0luhnmpbjupjv3l0r7o8gjb9sj8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeEX6eGuc-32JRX1QdEurWxnb_byKxGtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488125519392-007q0luhnmpbjupjv3l0r7o8gjb9sj8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

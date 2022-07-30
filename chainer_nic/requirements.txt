@@ -1,0 +1,16 @@
+numpy
+pandas
+Flask
+joblib
+gunicorn
+xgboost
+base64
+os
+PIL
+io
+collections
+chainer
+pycocotools
+argparse
+glob
+json
